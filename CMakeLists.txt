@@ -6,6 +6,5 @@ set(CMAKE_C_STANDARD 11)
 include_directories(.)
 
 add_executable(MyCRepo
-    bitwise_ops.c
-    bitwise_ops.h
-        readwav.c readwav.h)
+        readwav.c readwav.h
+        )
