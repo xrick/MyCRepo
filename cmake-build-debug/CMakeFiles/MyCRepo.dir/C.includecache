@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/MyGitPrjs/MyCRepo/bitwise_ops.c
+bitwise_ops.h
+D:/MyGitPrjs/MyCRepo/bitwise_ops.h
+stdio.h
+-
+
+D:/MyGitPrjs/MyCRepo/bitwise_ops.h
+

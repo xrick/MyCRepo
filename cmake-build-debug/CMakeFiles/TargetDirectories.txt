@@ -1,0 +1,3 @@
+D:/MyGitPrjs/MyCRepo/cmake-build-debug/CMakeFiles/MyCRepo.dir
+D:/MyGitPrjs/MyCRepo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MyGitPrjs/MyCRepo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
