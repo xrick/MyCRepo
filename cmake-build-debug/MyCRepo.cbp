@@ -78,12 +78,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/MyGitPrjs/MyCRepo/bitwise_ops.c">
-			<Option target="MyCRepo"/>
-		</Unit>
-		<Unit filename="D:/MyGitPrjs/MyCRepo/bitwise_ops.h">
-			<Option target="MyCRepo"/>
-		</Unit>
 		<Unit filename="D:/MyGitPrjs/MyCRepo/readwav.c">
 			<Option target="MyCRepo"/>
 		</Unit>

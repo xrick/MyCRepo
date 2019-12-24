@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/MyCRepo.dir/bitwise_ops.c.obj"
   "CMakeFiles/MyCRepo.dir/readwav.c.obj"
   "MyCRepo.exe"
   "MyCRepo.exe.manifest"

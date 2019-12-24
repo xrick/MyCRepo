@@ -122,33 +122,6 @@ MyCRepo/fast:
 	$(MAKE) -f CMakeFiles\MyCRepo.dir\build.make CMakeFiles/MyCRepo.dir/build
 .PHONY : MyCRepo/fast
 
-bitwise_ops.obj: bitwise_ops.c.obj
-
-.PHONY : bitwise_ops.obj
-
-# target to build an object file
-bitwise_ops.c.obj:
-	$(MAKE) -f CMakeFiles\MyCRepo.dir\build.make CMakeFiles/MyCRepo.dir/bitwise_ops.c.obj
-.PHONY : bitwise_ops.c.obj
-
-bitwise_ops.i: bitwise_ops.c.i
-
-.PHONY : bitwise_ops.i
-
-# target to preprocess a source file
-bitwise_ops.c.i:
-	$(MAKE) -f CMakeFiles\MyCRepo.dir\build.make CMakeFiles/MyCRepo.dir/bitwise_ops.c.i
-.PHONY : bitwise_ops.c.i
-
-bitwise_ops.s: bitwise_ops.c.s
-
-.PHONY : bitwise_ops.s
-
-# target to generate assembly for a file
-bitwise_ops.c.s:
-	$(MAKE) -f CMakeFiles\MyCRepo.dir\build.make CMakeFiles/MyCRepo.dir/bitwise_ops.c.s
-.PHONY : bitwise_ops.c.s
-
 readwav.obj: readwav.c.obj
 
 .PHONY : readwav.obj
@@ -185,9 +158,6 @@ help:
 	@echo ... MyCRepo
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... bitwise_ops.obj
-	@echo ... bitwise_ops.i
-	@echo ... bitwise_ops.s
 	@echo ... readwav.obj
 	@echo ... readwav.i
 	@echo ... readwav.s

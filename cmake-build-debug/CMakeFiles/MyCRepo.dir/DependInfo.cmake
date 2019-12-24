@@ -4,7 +4,6 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/MyGitPrjs/MyCRepo/bitwise_ops.c" "D:/MyGitPrjs/MyCRepo/cmake-build-debug/CMakeFiles/MyCRepo.dir/bitwise_ops.c.obj"
   "D:/MyGitPrjs/MyCRepo/readwav.c" "D:/MyGitPrjs/MyCRepo/cmake-build-debug/CMakeFiles/MyCRepo.dir/readwav.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")

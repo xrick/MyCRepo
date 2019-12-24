@@ -6,11 +6,17 @@
 
 #IncludeRegexTransform: 
 
-D:/MyGitPrjs/MyCRepo/bitwise_ops.c
-bitwise_ops.h
-D:/MyGitPrjs/MyCRepo/bitwise_ops.h
+D:/MyGitPrjs/MyCRepo/readwav.c
+readwav.h
+D:/MyGitPrjs/MyCRepo/readwav.h
 stdio.h
 -
+stdlib.h
+-
 
-D:/MyGitPrjs/MyCRepo/bitwise_ops.h
+D:/MyGitPrjs/MyCRepo/readwav.h
+stdio.h
+-
+stdlib.h
+-
 

@@ -3,27 +3,27 @@
 //
 
 #include "readwav.h"
+#include <stdio.h>
+#include <stdlib.h>
 
 int main(argc, argv)
 int argc;
 char* argv[];
 {
-    //read the arguments
-    char * filename = "../wav/Nellie1.wav";
-    FILE * fr = fopen(filename,"r");
+//    read the arguments
+     char * filename = "../wav/Nellie1.wav";
+     FILE * fr = fopen(filename,"r");
 
-    if ( fr == NULL){
-        printf("Fail to open file ");
-        return 0;
-    }
-    printf("open succeed.");
-    int c;
-    while((c = fgetc(fr)) != EOF){
+     if ( fr == NULL){
+         printf("Fail to open file ");
+         return 0;
+     }
+     printf("open succeed.");
+     int c;
+     while((c = fgetc(fr)) != EOF){
         
-    }
+     }
 
-    fclose(fr);
-
-
+     fclose(fr);
 
 }
